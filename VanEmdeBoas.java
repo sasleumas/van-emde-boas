@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * Estrutura de van Emde Boas.
+ * Trabalho da disciplina de Estrutura de Dados Avançadas.
+ * MDCC/UFC 2025.1
+ * @author Samuel A. Soares
+ */
 public class VanEmdeBoas {
     //Número de valores possíveis do universo de valores positivos.
     long universo;// = (long)Math.pow(2,32);
